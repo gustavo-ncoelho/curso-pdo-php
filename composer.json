@@ -1,0 +1,10 @@
+{
+    "name": "gustavocoelho/pdo_php",
+    "description": "Curso de pdo alura",
+    "autoload": {
+        "psr-4": {
+            "Gustavocoelho\\PdoPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
